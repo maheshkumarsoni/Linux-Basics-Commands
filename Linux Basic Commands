@@ -1,0 +1,4 @@
+sudo apt-get update     //for updating apps info
+sudo apt-get upgrade    //for updating apps
+sudo apt-get dist-update    //for updating distribution
+sudo apt-get install fonts-indic    //for installing hindi gujarati fonts
